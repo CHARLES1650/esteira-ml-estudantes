@@ -9,3 +9,9 @@ Este repositório contém a implementação de uma esteira completa de aprendiza
 3. Não é necessário baixar a base de dados manualmente; a primeira célula do notebook possui o comando de instalação da biblioteca `ucimlrepo` que fará a busca automatizada diretamente da fonte oficial do UCI.
 4. Vá em **Ambiente de execução > Executar tudo** no menu superior, ou rode cada célula sequencialmente.
 5. As métricas de avaliação, matriz de confusão e o teste de predição individual serão exibidos logo abaixo das células correspondentes.
+
+---
+
+## Autor
+
+**Charles Nilton do Nascimento** 
